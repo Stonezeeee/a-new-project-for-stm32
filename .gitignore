@@ -1,2 +1,6 @@
 *.o
 *.crf
+*.map
+*.dep
+*.axf
+*.htm
