@@ -6,6 +6,7 @@ int main(void)
 {
 	OLED_Init();
 	OLED_ShowChar(1, 1, 'a');
+	OLED_ShowChar(1, 1, 'b');
 
 	while(1)
 	{
