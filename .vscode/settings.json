@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "stm32f10x_conf.h": "c",
+        "delay.h": "c",
+        "led.h": "c"
+    }
+}
