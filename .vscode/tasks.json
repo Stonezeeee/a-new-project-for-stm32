@@ -60,7 +60,7 @@
     {
       "label": "Clean with Keil5",
       "type": "shell",
-      "command": "D:/Keil_v5/UV4/UV4.exe",
+      "command": "D:/Keil5/UV4/UV4.exe",
       "args": [
         "-r",
         "${workspaceFolder}/project.uvprojx",
